@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-typescript-tailwindcss",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple starter with already preconfigured Typescript & tailwindcss",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Oskar Kwaśniewski <oskarkwasniewski@icloud.com>",
   "dependencies": {
     "@mdx-js/mdx": "^1.6.16",
     "clsx": "^1.1.1",
